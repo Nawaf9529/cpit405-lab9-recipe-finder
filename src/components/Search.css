@@ -1,0 +1,15 @@
+.search-wrapper input{
+    width: 50%;
+
+}
+.search-wrapper{
+    padding: 20px;
+    text-align: center;
+}
+
+.search-wrapper button{
+color: rgb(255, 255, 255);
+background-color: rgb(61, 114, 97);
+border: 1px black solid;
+padding: 2px;
+}
